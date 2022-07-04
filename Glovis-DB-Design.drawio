@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T04:40:51.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-0fBtXz4Y3KiqlNCOQi2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T04:41:33.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-EIeX5Z8gts6HKrXuiGD" version="20.0.4" type="github">
   <diagram id="j4-PCyGOS4RyZZ0Sg1J4" name="Page-1">
     <mxGraphModel dx="2318" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5vxG2ckMQVs4f3e7ZEY-203" value="PAYMENT_ORDER_NO CHAR(50) NOT NULL Auto generate by system" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="F5vxG2ckMQVs4f3e7ZEY-201" vertex="1">
+        <mxCell id="F5vxG2ckMQVs4f3e7ZEY-203" value="PURCHASE_ORDER_NO CHAR(50) NOT NULL Auto generate by system" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="F5vxG2ckMQVs4f3e7ZEY-201" vertex="1">
           <mxGeometry x="30" width="420" height="30" as="geometry">
             <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
